@@ -1,3 +1,9 @@
+/*
+
+Skills used: CTE's, Joins, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types, Creating Views
+
+*/
+
 select *
 from PortfolioProject..CovidDeaths
 where continent is not null
